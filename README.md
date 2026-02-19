@@ -1,8 +1,4 @@
-# 🚀 LeetCode Solving Journey
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Progress](https://img.shields.io/badge/Problems_Solved-3-success?style=for-the-badge)
 
 Welcome to my LeetCode problem-solving journey! This repository documents my commitment to improving my algorithmic thinking and coding skills through consistent practice.
 
